@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">I use:</h2>
+<h2 align="left">Languages I Use</h2>
 
 ###
 
@@ -22,10 +22,22 @@
 
 ###
 
-<h2 align="left">Socials:</h2>
+<h2 align="left">My Socials</h2>
 
 ###
 
 <div align="left">
-    [<img src="https://cdn.discordapp.com/emojis/1198662130707206154.webp?size=96&quality=lossless" height="24" alt="Twitch Logo">](https://twitch.tv/itsatelo)
+    <a href="https://twitch.tv/itsatelo"><img src="https://cdn.discordapp.com/emojis/1198662130707206154.webp?size=96&quality=lossless" height="40" alt="Twitch Logo" /></a>
+    <img width="12">
+    <a href="https://discord.gg/jebk23rEzM"><img src="https://cdn.discordapp.com/emojis/1198663118600011986.webp?size=96&quality=lossless" height="40" alt="Discord Logo" /></a>
+</div>
+
+###
+
+<h2 align="left">My Projects</h2>
+
+###
+
+<div align="left">
+
 </div>
