@@ -27,5 +27,5 @@
 ###
 
 <div align="left">
-    <img src="https://cdn.discordapp.com/emojis/1198662130707206154.webp?size=96&quality=lossless" height="24" alt="Twitch Logo" onclick="window.location.href='https://twitch.tv/itsatelo';">
+    [<img src="https://cdn.discordapp.com/emojis/1198662130707206154.webp?size=96&quality=lossless" height="24" alt="Twitch Logo">](https://twitch.tv/itsatelo)
 </div>
