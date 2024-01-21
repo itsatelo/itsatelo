@@ -27,9 +27,9 @@
 ###
 
 <div align="left">
-    <a href="https://twitch.tv/itsatelo"><img src="https://cdn.discordapp.com/emojis/1198662130707206154.webp?size=96&quality=lossless" height="40" alt="Twitch Logo" /></a>
+    <a href="https://twitch.tv/itsatelo"><img src="twitch.png" height="40" alt="Twitch Logo" /></a>
     <img width="12">
-    <a href="https://discord.gg/jebk23rEzM"><img src="https://cdn.discordapp.com/emojis/1198663118600011986.webp?size=96&quality=lossless" height="40" alt="Discord Logo" /></a>
+    <a href="https://discord.gg/jebk23rEzM"><img src="discord.png" height="40" alt="Discord Logo" /></a>
 </div>
 
 ###
@@ -39,5 +39,32 @@
 ###
 
 <div align="left">
+   <h3><img src="azel.png" height="40" alt="Azel Logo"/><br>Azel</h3>
+   <p>
+      Azel is a multi-purpose and multi-platform bot meant to help manage Content Creators communities<br>
+      Originally, Azel only managed *my Discord server*, as I was an aspiring Content Creator, but it is now being adapted to multiple platforms and for more usage.
+   </p>
+</div>
 
+###
+
+<h2 align="left">Interested in Commissioning Me?</h2>
+
+###
+
+<div align="left">
+   <p>
+      Sorry, but I am not taking commissions for projects at the moment. Instead, they are reserved for friends of mine.<br>
+      Besides, there are better developers for your projects.
+   </p>
+</div>
+
+###
+
+<h2 align="left">Things I Want to Learn</h2>
+
+### 
+
+<div align="left">
+   
 </div>
