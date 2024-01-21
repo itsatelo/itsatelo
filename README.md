@@ -66,5 +66,9 @@
 ### 
 
 <div align="left">
-   
+   <img src="c++.png" height="40" alt="C++ Logo" />
+   <img width="12" />
+   <img src="java.png" height="40" alt="Java Logo" />
+   <img width="12" />
+   <img src="blender.png" height="40" alt="Blender Logo" />
 </div>
